@@ -1,0 +1,5 @@
+site_name: Digital Strategy Wiki
+theme: flatly
+pages:
+    - Home: index.md
+    - About: about.md
